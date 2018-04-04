@@ -1,2 +1,3 @@
 # TheFirst
-Test space
+
+This GitHub project is simply a sandbox for testing.
